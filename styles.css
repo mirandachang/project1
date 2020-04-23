@@ -6,4 +6,4 @@ div.jumbotron-fluid
     {object-fit: cover;}
 
 nav.navbar.navbar-expand-lg.navbar-light.bg-light
-    {background-color: #4a7ab5;}
+    {background-color: #4a7ab5!important;}

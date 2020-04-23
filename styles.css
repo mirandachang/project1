@@ -3,8 +3,7 @@ h1.header
     font-family: Georgia, 'Times New Roman', Times, serif;}
 
 div.jumbotron
-    {width: 100%;
-    height: fit-content;}
+    {object-fit: contain;}
 
 img.header-pic
     {object-fit: contain;}

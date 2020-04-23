@@ -1,9 +1,3 @@
 h1.header
     {background-color: gray;
     font-family: Georgia, 'Times New Roman', Times, serif;}
-
-div.jumbotron
-    {object-fit: contain;}
-
-img.header-pic
-    {object-fit: contain;}

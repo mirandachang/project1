@@ -2,5 +2,8 @@ h1.header
     {background-color: gray;
     font-family: Georgia, 'Times New Roman', Times, serif;}
 
+div.jumbotron-fluid
+    {object-fit: cover;}
+
 nav.navbar.navbar-expand-lg.navbar-light.bg-light
     {background-color: #4a7ab5;}

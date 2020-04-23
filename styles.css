@@ -2,7 +2,7 @@ h1.header
     {background-color: gray;
     font-family: Georgia, 'Times New Roman', Times, serif;}
 
-div.jumbotron-image
+img
     {background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;

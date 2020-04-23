@@ -1,3 +1,10 @@
 h1.header
     {background-color: gray;
     font-family: Georgia, 'Times New Roman', Times, serif;}
+
+div.jumbotron jumbotron-fluid
+    {position: relative;
+    background: url(pierogi.jpg) no-repeat center center;
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;}

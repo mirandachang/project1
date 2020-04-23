@@ -1,3 +1,6 @@
 h1.header
     {background-color: gray;
     font-family: Georgia, 'Times New Roman', Times, serif;}
+
+img.header-pic
+    {object-fit: contain;}

@@ -3,4 +3,4 @@ h1.header
     font-family: Georgia, 'Times New Roman', Times, serif;}
 
 img
-    {object-fit: fill;}
+    {object-fit: contain;}

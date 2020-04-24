@@ -7,7 +7,7 @@ h1.header
     background-repeat: no-repeat;
     background-size: cover;*/
 
-li
+a.nav-link
     {font-family: 'Montserrat', sans-serif;}
 
 nav.navbar-light .navbar-nav .nav-link

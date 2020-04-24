@@ -1,3 +1,9 @@
+div.jumbotron
+    {text-align: center;}
+
+div.indian-jumbo
+    {background-image: url(indian header.png);}
+
 h1.header
     {background-color: gray;}
     
@@ -31,3 +37,6 @@ nav.bg-light
 
 p.aboutme
     {text-align: left;}
+
+p.open
+    {color: chartreuse;}

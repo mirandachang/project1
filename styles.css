@@ -25,3 +25,6 @@ nav.navbar-light .navbar-nav .nav-link
 
 nav.bg-light
     {background-color: #4a7ab5!important;}
+
+p.aboutme
+    {text-align: left;}

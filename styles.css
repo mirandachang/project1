@@ -10,6 +10,8 @@ h2
     font-weight: 400;
     text-align: center;}
 
+div.row {align-content: center;}
+
 /*img
     {background-attachment: fixed;
     background-repeat: no-repeat;

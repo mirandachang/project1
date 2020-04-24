@@ -7,9 +7,11 @@ h1.header
     background-repeat: no-repeat;
     background-size: cover;*/
 
+nav.navbar-nav .navbar-light .nav-link
+    {font-family: 'Montserrat', sans-serif;}
+
 nav.navbar-light .navbar-nav .nav-link
-    {color: white
-    font-family: 'Montserrat', sans-serif;}
+    {color: white}
 
 nav.bg-light
     {background-color: #4a7ab5!important;}

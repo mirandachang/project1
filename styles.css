@@ -5,6 +5,11 @@ h1
     {font-family: 'Montserrat', sans-serif;
     font-weight: 500;}
 
+h2
+    {font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center;}
+
 /*img
     {background-attachment: fixed;
     background-repeat: no-repeat;

@@ -8,7 +8,8 @@ h1.header
     background-size: cover;*/
 
 nav.navbar-light .navbar-nav .nav-link
-    {color: white}
+    {color: white
+    font-family: 'Montserrat', sans-serif;}
 
 nav.bg-light
     {background-color: #4a7ab5!important;}

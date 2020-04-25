@@ -18,7 +18,8 @@ h2
 
 div.row {text-align: center;}
 
-div.container-pusheen {text-align: center;}
+div.container-pusheen
+    {text-align: center;}
 
 /*img
     {background-attachment: fixed;

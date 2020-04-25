@@ -10,6 +10,8 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 
+<!--add in netlify form stylesheet-->
+
 <body>
   <!--Hero-->
     <div class="jumbotron" class="indian-jumbo">
@@ -20,7 +22,7 @@
 
 
   <!--Suggestions Form-->  
-  <form>
+  <form action="netlify">
     <div class="form-group">
       <label for="formGroupExampleInput">Restaurant Suggestion</label>
       <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Your favorite restaurant">
@@ -29,22 +31,9 @@
       <label for="formGroupExampleInput2">Why You Like It</label>
       <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="What makes this place so good?!">
     </div>
+    <button type="button" class="btn btn-outline-primary">Submit</button>
   </form>
 
-    <form action="netlify">
-        <div class="form-group row">
-          <label for="restaurantSuggestion" class="col-sm-2 col-form-label">Restaurant Suggestion</label>
-          <div class="col-sm-10">
-            <input type="text" readonly class="form-control" id="restaurantSuggestion">
-          </div>
-        </div>
-        <div class="form-group row">
-          <label for="whyYouLikeIt" class="col-sm-2 col-form-label">Why You Like It</label>
-          <div class="col-sm-10">
-            <input type="text" class="form-control" id="whyYouLikeIt">
-          </div>
-        </div>
-      </form>
  
 </body>
 </html>

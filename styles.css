@@ -60,4 +60,4 @@ p.open
 
 div.container .fixed-bottom
     {background-color: #e9ecef;
-    min-width: max-content;}
+    min-width: 100%;}

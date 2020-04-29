@@ -2,7 +2,13 @@ body
     {margin-bottom: 24px;}
 
 div.jumbotron
-    {text-align: center;}
+    {text-align: center;
+    padding: 1rem;
+    padding-top: 32px;
+    padding-bottom: 32px;}
+
+img
+    {padding: 1rem;}
 
 div.indian-jumbo
     {background-image: url(Indian\ Header.png);}

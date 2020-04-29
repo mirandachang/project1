@@ -25,12 +25,12 @@ h3
 div.row {text-align: center;}
 div.suggestions {text-align: left;}
 div.container-pusheen
-    {text-align: center;
-    vertical-align: top;}
+    {text-align: center;}
 
 img.img-pusheen
     {max-width: 100%;
-    height: auto;}
+    height: auto;
+    vertical-align: top;}
 
 /*img
     {background-attachment: fixed;

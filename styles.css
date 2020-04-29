@@ -61,4 +61,5 @@ p.open
 div.container .fixed-bottom
     {background-color: #e9ecef;
     min-width: 100%;
-    padding-top: 200px;}
+    padding-top: 20px;
+    padding-bottom: 20px;}

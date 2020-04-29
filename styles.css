@@ -59,4 +59,5 @@ p.open
     {color: chartreuse;}
 
 div.container .fixed-bottom
-    {background-color: #e9ecef;}
+    {background-color: #e9ecef;
+    min-width: max-content;}

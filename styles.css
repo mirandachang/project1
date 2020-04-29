@@ -30,16 +30,16 @@ h3
 
 div.row
     {text-align: center;}
-div.col-sm-3
-    {padding-bottom: 20px;}
 div.col-sm-4
     {padding-bottom: 35px;}
 div.col-sm-6
     {padding-bottom: 20px;}
-div.col-sm-9
+div.col-md-3
     {padding-bottom: 20px;}
 div.col-md-6
     {padding-bottom: 16px;}
+div.col-md-9
+    {padding-bottom: 20px;}
 div.suggestions {text-align: left;}
 div.container-pusheen
     {text-align: center;}

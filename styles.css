@@ -23,10 +23,10 @@ h3
     text-align: center;}
 
 div.row {text-align: center;}
-div.row-suggestions {text-align: left;}
-label.suggestions {text-align: left;}
+div.suggestions {text-align: left;}
 div.container-pusheen
-    {text-align: center;}
+    {text-align: center;
+    vertical-align: top;}
 
 img.img-pusheen
     {max-width: 100%;

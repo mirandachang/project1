@@ -54,3 +54,6 @@ p.aboutme
 
 p.open
     {color: chartreuse;}
+
+#sticky-footer
+    {flex-shrink: none;}

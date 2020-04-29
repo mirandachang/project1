@@ -29,8 +29,9 @@ h3
     text-align: center;}
 
 div.row
-    {text-align: center;
-    padding-bottom: 5px;}
+    {text-align: center;}
+div.col-md-6
+    {padding-bottom: 10px;}
 div.suggestions {text-align: left;}
 div.container-pusheen
     {text-align: center;}

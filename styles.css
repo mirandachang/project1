@@ -28,7 +28,9 @@ h3
     font-weight: bold;
     text-align: center;}
 
-div.row {text-align: center;}
+div.row
+    {text-align: center;
+    padding-bottom: 5px;}
 div.suggestions {text-align: left;}
 div.container-pusheen
     {text-align: center;}
